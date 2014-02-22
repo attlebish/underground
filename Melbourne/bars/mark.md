@@ -1,3 +1,4 @@
-# This is a large heading
+# Atticus Finch
 
-This is a paragraph with *emphasis* and **strong** text.
+Slip into the dark, cosy world of Atticus Finch & lose yourself amongst
+an eclectic array of hand crafted *wine* & **beer**.
